@@ -1,4 +1,4 @@
-﻿# 💫About Me
+![header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=15&text=Hi,%20I%27m%20Thanhdang!~%F0%9F%91%8B&fontAlignY=25&fontSize=30&fontColor=FFFFFF)
 Hi everyone, I'm Thanh Dang, a fourth-year student specializing in Data Science and Artificial Intelligence at Da Nang University of Science and Technology. Currently, I am studying to become an AI engineer. Thank you for visiting my Github page!!
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
